@@ -2,7 +2,7 @@
 - Currently pursuing a MS in Business and Analytics (advanced analytics track) @ Isenberg Shool of Management.
 - At Microsoft worked on creating (Among other things), maintaining and fleshing out k8s controllers for CRDs using kubebuilder, creating RPM packages for CBL-Mariner for the operator nexus platform (Undercloud Team).
 - Keenly interested in contributing to the OSS community (espcially in the k8s and the Cloud Space).
-- You will probably find me playing chess or reading in my free time, always looks for new books to read.
+- You will probably find me playing chess or reading in my free time, always looking for new books to read.
 
 
 
